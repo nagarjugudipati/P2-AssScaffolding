@@ -1,0 +1,249 @@
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Scaffolding.dll.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Scaffolding.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Scaffolding.pdb
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.AppContext.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Collections.Immutable.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Console.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Globalization.Calendars.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Net.Http.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Net.Sockets.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Reflection.Metadata.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.ValueTuple.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.rsp
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe.config
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Antlr3.Runtime.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\EntityFramework.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Microsoft.Web.Infrastructure.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Newtonsoft.Json.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Helpers.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Mvc.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Optimization.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Razor.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\WebGrease.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\EntityFramework.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Helpers.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Mvc.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Optimization.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.Razor.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Newtonsoft.Json.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Antlr3.Runtime.pdb
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CopyComplete
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.dll
+D:\Simplilearn classes\Phase2\Assisted Projects\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.pdb
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Scaffolding.dll.config
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Scaffolding.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Scaffolding.pdb
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.exe
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.exe.config
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csc.rsp
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.exe
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.exe.config
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\csi.rsp
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.AppContext.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Collections.Immutable.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Console.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Net.Http.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Net.Sockets.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.ValueTuple.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.exe
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.exe.config
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\vbc.rsp
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe.config
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Antlr3.Runtime.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\EntityFramework.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Microsoft.Web.Infrastructure.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Newtonsoft.Json.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Helpers.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Mvc.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Optimization.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Razor.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\WebGrease.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\EntityFramework.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Helpers.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Mvc.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Optimization.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.Razor.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Newtonsoft.Json.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Antlr3.Runtime.pdb
+C:\Assisted\Section4\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Assisted\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.AssemblyReference.cache
+C:\Assisted\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CoreCompileInputs.cache
+C:\Assisted\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CopyComplete
+C:\Assisted\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.dll
+C:\Assisted\Section4\Scaffolding\Scaffolding\obj\Debug\Scaffolding.pdb
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Scaffolding.dll.config
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Scaffolding.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Scaffolding.pdb
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csc.exe
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csc.exe.config
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csc.rsp
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csi.exe
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csi.exe.config
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\csi.rsp
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.AppContext.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Collections.Immutable.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Console.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Globalization.Calendars.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Net.Http.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Net.Sockets.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.ValueTuple.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\vbc.exe
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\vbc.exe.config
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\vbc.rsp
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\roslyn\VBCSCompiler.exe.config
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Antlr3.Runtime.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\EntityFramework.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Microsoft.Web.Infrastructure.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Newtonsoft.Json.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Helpers.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Mvc.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Optimization.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Razor.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\WebGrease.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\EntityFramework.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\EntityFramework.SqlServer.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Helpers.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Mvc.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Optimization.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.Razor.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.Deployment.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\System.Web.WebPages.Razor.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Newtonsoft.Json.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Antlr3.Runtime.pdb
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\obj\Debug\Scaffolding.csproj.CopyComplete
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\obj\Debug\Scaffolding.dll
+D:\Mphasis\Phase-2\AssistedProjects\Scaffolding\Scaffolding\obj\Debug\Scaffolding.pdb
